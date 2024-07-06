@@ -1,4 +1,6 @@
-This repository is used for technical writing and will contain various types of function and non-functional projects.
+This repository is used for technical writing and will contain various types of functional and non-functional projects.
+
+<br/>
 
 > [!NOTE]
 > Tags are used in this Test repository to allow swapping between multiple project structures.
