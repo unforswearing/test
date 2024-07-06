@@ -1,0 +1,5 @@
+index:
+  - name: "item1"
+    description: "Description for item1"
+  - name: "item2"
+    description: "Description for item2"
